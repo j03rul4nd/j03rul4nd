@@ -1,13 +1,6 @@
 
   <h1>hey, I'm Joel &#x1F44B;</h1>
-  <div class="social-media">
-    <a href="https://www.linkedin.com/newsletters/6966420118167777280/" target="_blank"><i class="fa fa-newspaper-o profile-link"></i></a>
-    <a href="https://www.behance.net/joelbentez" target="_blank" id="profile-link"><i
-        class="fab fa-behance profile-link"></i></a>
-    <a href="https://www.linkedin.com/in/joel-benitez-iiot-industry/" target="_blank"><i
-        class="fab fa-linkedin profile-link"></i></a>
-  </div>
-
+  <p>Hello everyone, I'm Joel, an engineering developer and UI designer passionate about technology. With solid knowledge in Node.js and JavaScript, as well as experience in MQTT, I specialize in Industrial IoT (IIoT) solutions. I continuously learn and experiment with new technologies to improve my skills and provide innovative solutions to my projects. This repository showcases my work and progress in the technology industry.</p>
 
   <section>
     <h2>I'm a</h2>
